@@ -1,9 +1,8 @@
 {
   "name": "pug-lint-config-coryg",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "My personal pug-lint options",
   "main": "index.js",
-  "repository": "https://github.com/cory-g/pug-lint-config-coryg",
   "author": "Cory G",
   "license": "MIT",
   "private": false

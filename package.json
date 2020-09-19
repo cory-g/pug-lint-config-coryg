@@ -1,9 +1,24 @@
 {
-  "name": "pug-lint-config-coryg",
-  "version": "1.0.0",
-  "description": "My personal pug-lint options",
-  "main": "index.js",
-  "author": "Cory G",
-  "license": "MIT",
-  "private": false
+    "name": "pug-lint-config-coryg",
+    "version": "1.0.0",
+    "description": "My personal pug-lint options",
+    "main": "index.js",
+    "author": {
+        "name": "Cory G",
+        "email": "cory.gantenbein@gmail.com",
+        "url": "https://coryg.me"
+    },
+    "keywords": [
+        "puglint",
+        "puglintconfig"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:cory-g/pug-lint-config-coryg.git"
+    },
+    "peerDependencies": {
+        "pug-lint": "^2.5.0"
+    },
+    "license": "WTFPL",
+    "private": false
 }

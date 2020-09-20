@@ -94,7 +94,7 @@ module.exports = {
     validateDivTags: true,
     validateExtensions: null,
     validateIndentation: 4,
-    validateLineBreaks: 'lf',
+    validateLineBreaks: 'LF',
     validateSelfClosingTags: true,
     validateTemplateString: true,
 }
